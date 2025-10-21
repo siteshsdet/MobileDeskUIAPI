@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<<suite name="Mobile Test Suite" parallel="tests" thread-count="2">
+<test name="Android Test">
+    <parameter name="platformName" value="Android"/>
+    <parameter name="deviceType" value="virtual"/>
+    <classes>
+        <class name="Steps.Common.TestRunner"/>
+    </classes>
+</test>
+</suite>

@@ -1,0 +1,1432 @@
+2025-08-23 20:48:26,712 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 20:48:26,715 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 20:48:31,720 INFO C.PropertyUtil [main] FileConstants.LOADING_PROPERTY_FILE_MESSAGE
+2025-08-23 20:48:31,721 INFO C.PropertyUtil [main] FileConstants.PROPERTY_FILE_LOADED
+2025-08-23 20:48:34,679 INFO m.m.AppiumDriverManager [main] OS Name Matched & Running with the same Platform!
+2025-08-23 20:48:34,890 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-23 20:48:34,895 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-23 20:48:34,896 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-23 20:48:34,896 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-23 20:48:34,896 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 20:48:34,899 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 20:51:00,713 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 20:51:00,714 INFO C.PropertyUtil [main] FileConstants.LOADING_PROPERTY_FILE_MESSAGE
+2025-08-23 20:51:00,715 INFO C.PropertyUtil [main] FileConstants.PROPERTY_FILE_LOADED
+2025-08-23 20:51:00,840 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 20:51:00,842 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 20:52:34,180 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 20:52:34,181 INFO C.PropertyUtil [main] FileConstants.LOADING_PROPERTY_FILE_MESSAGE
+2025-08-23 20:52:34,182 INFO C.PropertyUtil [main] FileConstants.PROPERTY_FILE_LOADED
+2025-08-23 20:52:34,305 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 20:52:34,307 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 21:00:21,308 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 21:00:21,309 INFO C.PropertyUtil [main] FileConstants.LOADING_PROPERTY_FILE_MESSAGE
+2025-08-23 21:00:21,310 INFO C.PropertyUtil [main] FileConstants.PROPERTY_FILE_LOADED
+2025-08-23 21:00:21,430 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 21:00:21,434 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 21:37:31,616 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 21:37:31,617 INFO C.PropertyUtil [main] FileConstants.LOADING_PROPERTY_FILE_MESSAGE
+2025-08-23 21:37:31,618 INFO C.PropertyUtil [main] FileConstants.PROPERTY_FILE_LOADED
+2025-08-23 21:37:31,737 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 21:37:31,740 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 21:42:54,355 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 21:42:54,356 INFO C.PropertyUtil [main] FileConstants.LOADING_PROPERTY_FILE_MESSAGE
+2025-08-23 21:42:54,357 INFO C.PropertyUtil [main] FileConstants.PROPERTY_FILE_LOADED
+2025-08-23 21:42:54,485 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 21:42:54,487 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 21:45:27,454 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 21:45:27,455 INFO C.PropertyUtil [main] FileConstants.LOADING_PROPERTY_FILE_MESSAGE
+2025-08-23 21:45:27,455 INFO C.PropertyUtil [main] FileConstants.PROPERTY_FILE_LOADED
+2025-08-23 21:45:29,350 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 21:45:29,352 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 21:46:13,391 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 21:46:13,741 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 21:46:13,743 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 21:48:03,561 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 21:48:35,037 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 21:48:35,041 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 21:48:37,389 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 21:49:48,577 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 21:49:48,919 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 21:49:48,921 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 21:51:04,079 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 21:51:04,428 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 21:51:04,430 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 21:51:36,453 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 21:51:36,456 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 21:51:59,437 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 21:51:59,440 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 21:54:36,929 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-23 21:54:36,932 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-23 21:54:41,889 INFO C.GenericUtil [TestNG-tests-2] Stopping emulator!!
+2025-08-23 21:54:41,896 INFO C.GenericUtil [TestNG-tests-2] Emulator has been stopped successfully!!
+2025-08-23 21:54:41,937 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-23 21:54:41,940 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-23 21:56:07,247 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-23 21:56:07,250 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-23 21:56:12,307 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-23 21:56:12,315 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-23 21:57:11,984 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-23 21:57:11,987 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-23 21:58:57,160 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-23 21:58:57,163 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-23 21:59:54,683 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-23 21:59:54,691 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-23 22:03:09,906 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-23 22:03:09,909 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-23 22:04:04,194 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 22:04:04,197 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 22:04:13,736 INFO m.m.AppiumDriverManager [main] OS name matched: Android
+2025-08-23 22:04:13,941 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-23 22:04:13,948 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-23 22:04:13,949 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-23 22:04:13,949 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-23 22:04:53,833 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 22:04:53,836 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 22:05:01,899 INFO m.m.AppiumDriverManager [main] OS name matched: Android
+2025-08-23 22:05:04,119 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-23 22:05:04,124 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-23 22:05:04,125 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-23 22:05:04,125 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-23 22:05:04,125 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 22:05:04,130 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 22:05:37,541 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 22:05:37,544 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 22:05:45,751 INFO m.m.AppiumDriverManager [main] OS name matched: Android
+2025-08-23 22:05:45,945 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-23 22:05:45,953 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-23 22:05:45,955 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-23 22:05:45,955 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-23 22:05:45,955 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 22:05:45,958 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 22:06:08,661 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-23 22:06:08,664 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-23 22:06:13,693 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-23 22:06:13,696 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-23 22:06:43,028 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 22:06:43,031 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 22:06:51,327 INFO m.m.AppiumDriverManager [main] OS name matched: Android
+2025-08-23 22:06:51,537 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-23 22:06:51,546 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-23 22:06:51,547 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-23 22:06:51,547 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-23 22:06:51,547 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 22:06:51,550 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 22:07:19,013 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 22:07:19,015 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 22:07:27,227 INFO m.m.AppiumDriverManager [main] OS name matched: Android
+2025-08-23 22:07:27,435 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-23 22:07:27,442 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-23 22:07:27,443 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-23 22:07:27,443 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-23 22:07:27,443 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 22:07:27,449 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 22:11:17,076 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 22:11:17,532 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 22:11:17,534 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 22:12:56,306 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 22:12:56,648 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 22:12:56,650 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 22:13:57,600 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 22:13:57,939 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 22:13:57,941 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-23 22:39:42,414 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-23 22:39:42,422 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-23 22:40:33,081 INFO S.C.TestRunner [TestNG-tests-2] iOS simulator setup
+2025-08-23 22:41:10,548 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 22:41:10,550 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 22:43:07,022 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 22:43:07,031 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 22:46:37,237 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-23 22:46:37,238 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-23 22:46:37,239 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-23 22:46:37,239 INFO C.GenericUtil [TestNG-PoolService-1] Stopping emulator!!
+2025-08-23 22:46:37,244 INFO C.GenericUtil [TestNG-PoolService-1] Emulator has been stopped successfully!!
+2025-08-23 22:48:13,226 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-23 22:48:13,228 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-23 22:48:13,228 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-23 22:48:13,229 INFO C.GenericUtil [TestNG-PoolService-1] Stopping emulator!!
+2025-08-23 22:48:13,233 INFO C.GenericUtil [TestNG-PoolService-1] Emulator has been stopped successfully!!
+2025-08-23 22:48:49,409 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-23 22:48:49,412 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-23 22:59:04,242 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-23 22:59:04,621 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-23 22:59:04,623 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:02:32,766 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:02:33,059 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:02:33,062 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:03:17,457 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:03:17,842 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:03:17,844 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:07:00,204 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:07:00,592 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:07:00,594 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:11:15,634 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:11:15,982 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:11:15,985 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:35:39,852 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:35:40,287 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:35:40,290 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:36:11,131 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:36:56,765 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:36:56,769 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:39:13,900 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:39:45,625 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:39:45,629 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:45:44,496 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:45:56,490 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:45:56,493 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:57:56,013 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:57:56,396 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:57:56,399 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:58:24,895 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:58:25,510 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:58:25,513 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 08:58:53,456 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 08:58:53,796 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 08:58:53,798 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 09:10:32,890 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 09:10:41,557 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 09:10:46,597 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 09:10:46,607 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-24 09:10:46,608 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-24 09:10:46,608 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-24 09:10:46,609 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 09:10:46,619 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 10:37:03,401 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 10:37:06,699 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 10:37:11,743 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 10:37:11,755 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-24 10:37:11,757 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-24 10:37:11,757 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-24 10:37:11,758 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 10:37:11,764 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 10:37:35,175 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 10:37:54,742 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 10:38:22,093 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 10:38:42,388 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 10:38:47,434 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 10:38:47,447 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-24 10:38:47,448 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-24 10:38:47,449 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-24 10:38:47,449 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 10:38:47,457 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:11:01,242 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 11:11:04,736 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:11:09,778 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:11:09,790 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-24 11:11:09,791 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-24 11:11:09,792 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-24 11:11:09,792 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:11:09,800 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:11:36,829 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 11:11:59,577 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:12:04,627 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:12:04,642 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-24 11:12:04,644 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-24 11:12:04,644 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-24 11:12:04,645 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:12:04,652 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:15:04,002 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 11:15:22,603 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:15:27,642 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:15:27,652 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-24 11:15:27,654 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-24 11:15:27,654 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-24 11:15:27,655 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:15:27,660 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:17:36,772 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 11:17:39,944 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:17:44,988 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:17:45,000 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-24 11:17:45,001 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-24 11:17:45,002 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-24 11:17:45,002 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:17:45,011 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:19:08,117 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 11:19:26,295 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:19:31,337 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:19:31,346 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-24 11:19:31,348 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-24 11:19:31,348 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-24 11:28:50,597 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 11:29:10,823 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:29:15,867 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:29:15,881 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-24 11:29:15,883 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-24 11:29:15,883 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-24 11:29:15,883 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:29:15,891 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:29:16,250 INFO S.C.BaseTest [main] iOS simulator setup
+2025-08-24 11:29:34,633 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:29:39,686 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:29:39,690 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-08-24 11:29:39,691 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-08-24 11:29:39,691 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-08-24 11:29:39,691 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:29:39,698 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:49:51,903 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-24 11:50:12,303 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:50:17,360 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:50:17,419 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 11:50:17,421 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 11:50:17,421 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 11:50:17,425 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:50:17,436 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:50:17,849 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-24 11:50:36,661 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:50:41,697 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:50:41,722 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 11:50:41,722 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 11:50:41,723 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 11:50:41,724 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:50:41,730 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:51:45,801 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-24 11:51:45,808 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-24 11:52:11,638 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:52:16,686 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:52:16,742 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 11:52:16,744 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 11:52:16,744 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 11:52:16,746 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:52:16,750 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:52:17,093 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-24 11:52:17,099 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-24 11:52:42,212 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:52:47,258 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:52:47,282 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 11:52:47,283 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 11:52:47,283 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 11:52:47,285 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:52:47,292 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:54:06,124 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 11:54:06,127 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 11:55:14,207 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-24 11:55:14,210 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-24 11:55:38,431 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 11:55:43,483 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 11:55:43,544 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 11:55:43,545 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 11:55:43,546 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 11:55:48,553 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 11:55:48,564 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 11:58:28,501 INFO C.GenericUtil [TestNG-tests-2] Emulator is Launching!
+2025-08-24 11:58:28,503 INFO C.GenericUtil [TestNG-tests-2] Emulator has been launched!
+2025-08-24 11:59:46,632 INFO C.GenericUtil [TestNG-tests-2] Emulator is Launching!
+2025-08-24 11:59:46,635 INFO C.GenericUtil [TestNG-tests-2] Emulator has been launched!
+2025-08-24 12:04:00,921 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 12:04:00,924 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 12:04:30,198 INFO m.m.AppiumDriverManager [TestNG-tests-1] OS name matched: iOS
+2025-08-24 12:04:39,997 INFO C.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 12:04:40,061 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 12:04:40,062 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 12:04:40,062 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 12:04:46,188 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-24 12:04:46,195 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-24 12:07:35,175 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 12:07:35,178 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 12:08:04,341 INFO m.m.AppiumDriverManager [TestNG-tests-1] OS name matched: iOS
+2025-08-24 12:08:09,394 INFO C.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 12:08:09,458 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 12:08:09,460 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 12:08:09,460 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 12:08:15,533 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-24 12:08:15,539 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-24 12:09:50,003 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 12:09:50,006 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 12:10:24,365 INFO m.m.AppiumDriverManager [TestNG-tests-1] OS name matched: iOS
+2025-08-24 12:10:29,465 INFO C.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 12:10:29,603 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 12:10:29,605 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 12:10:29,605 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 12:10:35,763 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-24 12:10:35,773 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-24 12:26:01,169 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 12:26:01,172 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 12:27:18,971 INFO m.m.AppiumDriverManager [TestNG-tests-2] OS name matched: iOS
+2025-08-24 12:27:24,032 INFO C.GenericUtil [TestNG-tests-2] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 12:27:24,106 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 12:27:24,108 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 12:27:24,108 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 12:27:30,253 INFO C.GenericUtil [TestNG-tests-2] Stopping emulator!!
+2025-08-24 12:27:30,263 INFO C.GenericUtil [TestNG-tests-2] Emulator has been stopped successfully!!
+2025-08-24 12:28:59,231 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 12:28:59,234 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 12:29:28,962 INFO m.m.AppiumDriverManager [TestNG-tests-2] OS name matched: iOS
+2025-08-24 12:29:34,021 INFO C.GenericUtil [TestNG-tests-2] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 12:29:34,076 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 12:29:34,078 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 12:29:34,078 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 12:29:40,202 INFO C.GenericUtil [TestNG-tests-2] Stopping emulator!!
+2025-08-24 12:29:40,212 INFO C.GenericUtil [TestNG-tests-2] Emulator has been stopped successfully!!
+2025-08-24 12:41:09,888 INFO C.GenericUtil [TestNG-tests-2] Emulator is Launching!
+2025-08-24 12:41:09,891 INFO C.GenericUtil [TestNG-tests-2] Emulator has been launched!
+2025-08-24 12:43:57,246 INFO C.GenericUtil [TestNG-tests-2] Emulator is Launching!
+2025-08-24 12:43:57,250 INFO C.GenericUtil [TestNG-tests-2] Emulator has been launched!
+2025-08-24 12:44:07,855 INFO m.m.AppiumDriverManager [TestNG-tests-1] OS name matched: Android
+2025-08-24 12:44:08,045 INFO C.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 12:44:08,095 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 12:44:08,097 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 12:44:08,097 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 12:44:11,907 INFO m.m.AppiumDriverManager [TestNG-tests-2] OS name matched: Android
+2025-08-24 12:44:12,092 INFO C.GenericUtil [TestNG-tests-2] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 12:44:12,098 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 12:44:12,098 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 12:44:12,099 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 12:44:17,332 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-24 12:44:17,335 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-24 12:48:52,024 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 12:48:52,027 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 12:49:06,207 INFO m.m.AppiumDriverManager [TestNG-tests-2] OS name matched: Android
+2025-08-24 12:49:06,390 INFO C.GenericUtil [TestNG-tests-2] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 12:49:06,437 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 12:49:06,438 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 12:49:06,438 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 12:49:11,574 INFO C.GenericUtil [TestNG-tests-2] Stopping emulator!!
+2025-08-24 12:49:11,576 INFO C.GenericUtil [TestNG-tests-2] Emulator has been stopped successfully!!
+2025-08-24 12:51:57,729 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 12:51:57,732 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 12:52:12,258 INFO m.m.AppiumDriverManager [TestNG-tests-1] OS name matched: Android
+2025-08-24 12:52:12,450 INFO C.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 12:52:12,497 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 12:52:12,498 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 12:52:12,498 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 12:52:17,629 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-24 12:52:17,631 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-24 13:04:34,515 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 13:04:34,518 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 13:04:44,961 INFO m.m.AppiumDriverManager [TestNG-tests-1] OS name matched: Android
+2025-08-24 13:04:45,150 INFO C.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 13:04:45,196 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 13:04:45,199 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 13:04:45,199 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 13:04:49,057 INFO m.m.AppiumDriverManager [TestNG-tests-2] OS name matched: Android
+2025-08-24 13:04:49,257 INFO C.GenericUtil [TestNG-tests-2] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 13:04:49,263 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 13:04:49,263 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 13:04:49,263 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 13:04:54,646 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-24 13:04:54,651 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-24 13:07:12,373 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 13:07:12,376 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 13:07:22,733 INFO m.m.AppiumDriverManager [TestNG-tests-1] OS name matched: Android
+2025-08-24 13:07:22,926 INFO C.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 13:07:22,971 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 13:07:22,974 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 13:07:22,974 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 13:07:28,162 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-24 13:07:28,165 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-24 20:13:17,133 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-24 20:13:17,137 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-24 20:13:27,529 INFO m.m.AppiumDriverManager [TestNG-tests-1] OS name matched: Android
+2025-08-24 20:13:27,728 INFO C.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 20:13:27,775 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 20:13:27,776 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 20:13:27,777 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 20:13:32,980 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-24 20:13:32,985 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-24 20:18:26,114 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-24 20:18:26,117 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-24 20:18:34,979 INFO m.m.AppiumDriverManager [main] OS name matched: Android
+2025-08-24 20:18:35,169 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 20:18:35,212 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 20:18:35,215 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 20:18:35,215 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 20:18:40,425 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 20:18:40,428 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 20:26:12,054 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-24 20:26:37,239 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 20:26:42,301 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 20:26:42,358 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 20:26:42,359 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 20:26:42,359 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 20:26:48,462 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 20:26:48,472 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 20:27:22,264 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-24 20:27:50,726 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 20:27:55,776 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 20:27:55,830 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 20:27:55,832 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 20:27:55,832 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 20:28:01,882 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 20:28:01,893 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 20:28:01,909 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-24 20:28:50,479 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 20:28:55,540 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 20:28:55,558 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 20:28:55,558 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 20:28:55,558 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 20:29:01,601 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 20:29:01,613 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 20:43:23,063 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-24 20:43:45,460 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 20:43:55,335 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 20:43:55,388 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 20:43:55,390 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 20:43:55,390 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 20:44:01,522 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 20:44:01,532 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 21:29:03,573 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-24 21:31:05,620 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-24 21:31:26,334 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 21:31:31,387 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 21:31:31,450 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 21:31:31,451 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 21:31:31,452 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 21:31:37,541 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 21:31:37,553 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 22:22:09,476 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-24 22:22:31,030 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 22:22:36,080 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 22:22:36,144 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 22:22:36,146 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 22:22:36,146 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 22:22:42,263 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 22:22:42,271 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-24 22:29:12,935 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-24 22:29:35,762 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-24 22:29:40,807 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-24 22:29:40,866 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-24 22:29:40,867 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-24 22:29:40,867 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-24 22:29:46,982 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-24 22:29:46,993 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-26 08:11:40,792 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-26 08:14:08,604 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-26 08:14:31,254 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-26 08:14:41,058 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-26 08:14:41,128 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-26 08:14:41,129 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-26 08:14:41,130 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-26 08:14:47,249 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-26 08:14:47,258 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-26 08:19:09,286 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-26 08:19:30,845 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-26 08:19:35,893 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-26 08:19:35,956 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-26 08:19:35,958 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-26 08:19:35,958 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-26 08:19:42,047 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-26 08:19:42,056 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-26 12:21:32,281 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-26 12:21:55,256 INFO m.m.AppiumDriverManager [main] OS name matched: iOS
+2025-08-26 12:22:05,037 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-26 12:22:05,091 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-26 12:22:05,092 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-26 12:22:05,093 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-26 12:22:11,167 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-26 12:22:11,174 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-26 12:22:32,868 INFO S.C.TestRunner [main] iOS simulator setup
+2025-08-26 12:23:13,676 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-26 12:23:13,679 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-26 12:27:51,675 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-26 12:27:51,679 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-26 12:31:43,024 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-26 12:31:43,027 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-26 12:33:29,456 INFO C.GenericUtil [main] Emulator is Launching!
+2025-08-26 12:33:29,459 INFO C.GenericUtil [main] Emulator has been launched!
+2025-08-26 12:33:38,362 INFO m.m.AppiumDriverManager [main] OS name matched: Android
+2025-08-26 12:33:40,645 INFO C.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-26 12:33:40,686 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-26 12:33:40,687 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-26 12:33:40,687 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-26 12:33:45,880 INFO C.GenericUtil [main] Stopping emulator!!
+2025-08-26 12:33:45,884 INFO C.GenericUtil [main] Emulator has been stopped successfully!!
+2025-08-26 12:36:49,692 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-26 12:36:49,694 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-26 12:37:03,717 INFO m.m.AppiumDriverManager [TestNG-tests-2] OS name matched: Android
+2025-08-26 12:37:03,781 INFO C.GenericUtil [TestNG-tests-2] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-26 12:37:03,835 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-26 12:37:03,837 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-26 12:37:03,837 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-26 12:37:04,242 INFO m.m.AppiumDriverManager [TestNG-tests-1] OS name matched: Android
+2025-08-26 12:37:04,439 INFO C.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-26 12:37:04,447 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-26 12:37:04,447 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-26 12:37:04,448 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-26 12:37:14,055 INFO C.GenericUtil [TestNG-tests-2] Stopping emulator!!
+2025-08-26 12:37:14,061 INFO C.GenericUtil [TestNG-tests-2] Emulator has been stopped successfully!!
+2025-08-27 04:07:39,242 INFO C.CommonDriver [main] Web driver initialized for: chrome
+2025-08-27 04:12:29,255 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-27 04:12:29,259 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-27 04:14:47,522 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-27 04:14:47,525 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-27 04:15:16,721 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-27 04:15:16,724 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-27 04:16:00,136 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-27 04:16:00,139 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-27 04:17:43,310 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-27 04:17:43,313 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-27 04:17:53,161 INFO C.CommonDriver [TestNG-tests-1] Mobile driver initialized for: Android
+2025-08-27 04:18:46,055 INFO C.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-27 04:18:46,058 INFO C.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-27 04:18:56,493 INFO C.CommonDriver [TestNG-tests-1] Mobile driver initialized for: Android
+2025-08-27 04:18:58,700 INFO C.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-08-27 04:18:58,733 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-08-27 04:18:58,734 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-08-27 04:18:58,734 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-08-27 04:19:03,744 INFO C.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-08-27 04:19:03,754 INFO C.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-08-27 04:19:21,931 INFO C.CommonDriver [main] Web driver initialized for: chrome
+2025-08-27 10:39:26,145 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:43:56,071 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:44:40,378 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:45:10,263 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:45:38,986 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:46:01,630 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:46:48,116 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:47:47,312 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:50:04,666 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:50:50,774 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:52:23,153 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:54:12,048 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:56:22,157 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 10:56:46,697 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 11:17:38,473 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 11:17:53,425 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 12:42:21,739 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:07:04,684 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:07:48,656 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:08:41,604 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:09:04,201 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:10:34,571 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:14:03,972 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:15:23,852 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:15:45,442 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:16:28,957 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-08-27 14:16:28,961 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-08-27 14:17:37,425 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:23:55,816 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:24:46,529 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:27:47,562 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:28:05,823 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 14:28:58,981 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:30:31,422 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:31:45,835 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:33:30,957 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:33:51,713 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:36:16,274 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:36:55,225 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:38:06,460 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:38:52,151 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:39:40,765 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:40:53,523 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:41:23,078 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:42:09,570 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 17:43:42,350 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 18:08:48,340 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 20:48:48,283 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 20:50:13,165 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 20:50:43,552 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 20:51:14,028 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 20:52:59,456 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 20:54:34,086 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 20:54:57,223 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-27 20:55:40,720 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-08-28 18:49:43,644 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-08 21:54:39,232 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-08 22:08:40,624 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-08 22:13:08,133 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-08 22:13:34,012 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-08 22:20:29,255 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-08 22:24:22,104 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-09 07:16:20,150 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-09 07:21:24,414 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-09 07:22:53,713 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-09 07:37:05,001 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-09 07:37:15,380 INFO c.U.GenericUtil [main] Successfully quit app: Pages
+2025-09-09 07:37:31,250 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-09 07:37:41,640 INFO c.U.GenericUtil [main] Successfully quit app: Pages
+2025-09-09 07:39:47,636 INFO c.U.GenericUtil [main] File opened successfully, with path : /Users/siteshkumarvishwakarma/Downloads/Raju_Kumar_Vishwakarma.docx
+2025-09-09 07:39:58,038 INFO c.U.GenericUtil [main] Successfully quit app: Pages
+2025-09-09 07:47:54,233 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 07:59:54,675 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 10:20:50,365 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 10:27:17,942 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 11:58:04,328 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 12:08:45,742 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 12:15:33,280 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 12:23:41,892 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 12:26:48,649 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:24:45,318 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:27:25,535 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:29:35,268 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:30:14,729 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:30:45,001 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:31:40,643 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:32:32,518 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:33:38,346 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:35:32,365 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-09-09 13:35:32,373 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-09-09 13:35:44,330 INFO c.D.DriverManager [main] Mobile driver initialized for: Android
+2025-09-09 13:35:44,533 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-09-09 13:35:44,580 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-09-09 13:35:44,581 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-09-09 13:35:44,581 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-09-09 13:35:49,760 ERROR c.D.DriverManager [main] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.TestRunner.stopSession(TestRunner.java:83) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) ~[testng-7.10.2.jar:7.10.2]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) ~[testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) ~[testng-rt.jar:?]
+2025-09-09 13:37:07,929 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:49:53,173 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 13:50:16,939 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 14:04:17,084 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 14:21:14,566 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 14:25:29,252 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 14:28:42,701 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 14:38:56,101 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 14:39:55,371 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 14:41:13,233 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-09-09 14:41:49,659 INFO c.D.DriverManager [main] Web driver initialized for: chrome
+2025-10-08 11:45:25,786 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 11:45:25,794 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 11:45:38,002 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 11:45:38,235 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 11:45:38,281 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 11:45:38,282 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 11:45:38,282 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 11:45:43,453 ERROR c.D.DriverManager [TestNG-tests-1] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.TestRunner.stopSession(TestRunner.java:83) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+2025-10-08 11:57:38,115 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 11:57:38,121 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 11:57:48,828 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 11:57:49,023 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 11:57:49,077 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 11:57:49,078 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 11:57:49,078 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 11:57:54,252 ERROR c.D.DriverManager [TestNG-tests-1] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.TestRunner.stopSession(TestRunner.java:83) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+2025-10-08 21:43:48,177 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 21:43:48,180 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 21:43:58,340 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 21:43:58,684 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 21:43:58,731 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 21:43:58,732 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 21:43:58,733 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 21:44:03,899 ERROR c.D.DriverManager [TestNG-tests-1] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.TestRunner.stopSession(TestRunner.java:83) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+2025-10-08 21:47:08,357 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 21:47:08,362 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 21:47:17,631 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 21:47:19,977 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 21:47:20,008 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 21:47:20,009 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 21:47:20,009 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 21:49:07,598 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 21:49:07,601 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 21:49:17,199 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 21:49:19,445 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 21:49:19,478 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 21:49:19,480 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 21:49:19,480 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 21:51:23,135 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 21:51:23,138 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 21:51:33,004 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 21:51:35,250 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 21:51:35,283 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 21:51:35,284 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 21:51:35,284 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 21:52:48,529 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 21:52:48,533 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 21:52:58,013 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 21:53:00,370 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 21:53:00,402 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 21:53:00,403 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 21:53:00,403 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 21:53:05,562 INFO c.U.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-10-08 21:53:05,566 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-10-08 21:55:02,110 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 21:55:02,113 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 21:55:54,718 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 21:55:54,721 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 21:56:04,791 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 21:56:07,012 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 21:56:07,045 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 21:56:07,047 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 21:56:07,047 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 21:56:12,226 INFO c.U.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-10-08 21:56:12,230 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-10-08 21:56:12,237 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 21:56:12,246 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 21:56:18,198 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 21:56:18,201 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 21:56:28,237 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 21:56:28,449 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 21:56:28,498 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 21:56:28,501 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 21:56:28,502 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 21:56:33,700 INFO c.U.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-10-08 21:56:33,705 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-10-08 21:56:33,720 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 21:56:33,737 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 21:59:33,635 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 21:59:33,638 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 21:59:43,584 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 21:59:43,796 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 21:59:43,841 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 21:59:43,842 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 21:59:43,842 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:02:40,283 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 22:02:40,286 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 22:02:49,405 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 22:02:51,623 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:02:51,656 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:02:51,657 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:02:51,657 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:02:56,852 INFO S.C.TestRunner [TestNG-tests-1] Androdi driver is running
+2025-10-08 22:02:56,852 INFO c.U.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-10-08 22:02:56,856 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-10-08 22:02:56,863 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:02:56,882 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:04:26,250 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 22:04:26,253 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 22:04:36,107 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 22:04:36,328 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:04:36,371 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:04:36,373 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:04:36,373 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:04:41,378 ERROR c.D.DriverManager [TestNG-tests-1] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.TestRunner.stopSession(TestRunner.java:83) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+2025-10-08 22:05:48,637 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 22:05:48,641 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 22:05:58,313 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 22:06:00,536 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:06:00,619 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:06:00,622 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:06:00,623 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:07:50,293 ERROR c.D.DriverManager [TestNG-tests-1] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.TestRunner.stopSession(TestRunner.java:83) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+2025-10-08 22:08:03,605 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 22:08:03,608 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 22:08:13,100 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 22:08:15,315 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:08:15,347 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:08:15,348 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:08:15,348 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:08:20,537 INFO c.U.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-10-08 22:08:20,540 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-10-08 22:08:20,546 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:08:20,557 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:10:36,189 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 22:10:36,192 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 22:10:45,991 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 22:10:46,189 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:10:46,233 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:10:46,235 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:10:46,235 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:10:51,408 INFO S.C.TestRunner [TestNG-tests-1] Mobile driver was running and it stopped now!
+2025-10-08 22:10:51,408 INFO c.U.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-10-08 22:10:51,411 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-10-08 22:10:51,416 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:10:51,430 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:12:31,546 INFO c.U.GenericUtil [TestNG-tests-1] Emulator is Launching!
+2025-10-08 22:12:31,549 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been launched!
+2025-10-08 22:12:41,332 INFO c.D.DriverManager [TestNG-tests-1] Mobile driver initialized for: Android
+2025-10-08 22:12:41,534 INFO c.U.GenericUtil [TestNG-tests-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:12:41,578 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:12:41,580 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:12:41,580 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:12:46,756 INFO S.C.TestRunner [TestNG-tests-1] Mobile driver was running and it stopped now!
+2025-10-08 22:12:46,757 INFO c.U.GenericUtil [TestNG-tests-1] Stopping emulator!!
+2025-10-08 22:12:46,761 INFO c.U.GenericUtil [TestNG-tests-1] Emulator has been stopped successfully!!
+2025-10-08 22:12:46,770 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:12:46,790 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:14:15,786 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 22:14:15,789 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 22:14:24,075 INFO c.D.DriverManager [main] Mobile driver initialized for: Android
+2025-10-08 22:14:24,272 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:14:24,316 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:14:24,318 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:14:24,319 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:14:29,525 INFO S.C.TestRunner [main] Mobile driver was running and it stopped now!
+2025-10-08 22:14:29,525 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-08 22:14:29,530 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-08 22:14:29,546 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:14:29,571 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:14:47,666 INFO S.C.TestRunner [main] iOS simulator setup
+2025-10-08 22:15:57,328 INFO c.D.DriverManager [main] Mobile driver initialized for: iOS
+2025-10-08 22:16:07,738 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:16:07,800 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:16:07,801 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:16:07,801 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:16:13,897 INFO S.C.TestRunner [main] Mobile driver was running and it stopped now!
+2025-10-08 22:16:13,898 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-08 22:16:13,908 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-08 22:16:13,919 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:16:13,937 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:16:31,083 INFO S.C.TestRunner [main] iOS simulator setup
+2025-10-08 22:16:56,347 INFO c.D.DriverManager [main] Mobile driver initialized for: iOS
+2025-10-08 22:17:01,389 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:17:01,456 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:17:01,458 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:17:01,458 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:17:07,580 INFO S.C.TestRunner [main] Mobile driver was running and it stopped now!
+2025-10-08 22:17:07,582 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-08 22:17:07,592 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-08 22:17:07,601 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:17:07,620 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:18:46,720 INFO S.C.TestRunner [main] iOS simulator setup
+2025-10-08 22:19:23,647 INFO S.C.TestRunner [main] iOS simulator setup
+2025-10-08 22:20:04,535 INFO S.C.TestRunner [main] iOS simulator setup
+2025-10-08 22:20:11,164 INFO c.D.DriverManager [main] Mobile driver initialized for: iOS
+2025-10-08 22:20:16,206 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:20:16,262 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:20:16,263 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:20:16,263 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:20:22,369 INFO S.C.TestRunner [main] Mobile driver was running and it stopped now!
+2025-10-08 22:20:22,371 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-08 22:20:22,380 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-08 22:20:22,390 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:20:22,399 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:24:47,234 INFO S.C.TestRunner [main] iOS simulator setup
+2025-10-08 22:25:03,323 INFO S.C.TestRunner [main] iOS simulator setup
+2025-10-08 22:26:55,929 INFO S.C.TestRunner [main] iOS simulator setup
+2025-10-08 22:27:27,858 INFO c.D.DriverManager [main] Mobile driver initialized for: iOS
+2025-10-08 22:27:32,898 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:27:32,957 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:27:32,959 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:27:32,959 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:27:39,063 INFO S.C.TestRunner [main] Mobile driver was running and it stopped now!
+2025-10-08 22:27:39,064 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-08 22:27:39,069 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-08 22:27:39,075 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:27:39,086 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:30:17,863 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:30:17,865 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:30:17,865 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:30:17,869 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:30:17,876 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:31:18,935 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:31:18,937 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:31:18,937 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:31:18,941 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:31:18,948 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:44:53,784 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:44:53,786 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:44:53,786 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:44:53,790 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:44:53,798 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 22:58:21,313 INFO S.C.Hooks [TestNG-PoolService-1] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 22:58:21,315 INFO S.C.Hooks [TestNG-PoolService-1] Platform: iOS, Device: virtual
+2025-10-08 22:58:21,315 INFO S.C.Hooks [TestNG-PoolService-1] iOS simulator setup
+2025-10-08 22:58:45,806 INFO c.D.DriverManager [TestNG-PoolService-1] Mobile driver initialized for: iOS
+2025-10-08 22:58:50,851 INFO c.U.GenericUtil [TestNG-PoolService-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 22:58:50,864 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 22:58:50,865 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 22:58:50,866 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 22:58:56,961 INFO S.C.Hooks [TestNG-PoolService-1] Mobile driver was running and it stopped now!
+2025-10-08 22:58:56,963 INFO c.U.GenericUtil [TestNG-PoolService-1] Stopping emulator!!
+2025-10-08 22:58:56,972 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator has been stopped successfully!!
+2025-10-08 22:58:56,986 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 22:58:57,009 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 23:18:05,533 INFO S.C.Hooks [TestNG-PoolService-1] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:18:05,534 INFO S.C.Hooks [TestNG-PoolService-1] Platform: Android, Device: virtual
+2025-10-08 23:18:05,535 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator is Launching!
+2025-10-08 23:18:05,537 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator has been launched!
+2025-10-08 23:18:15,397 INFO c.D.DriverManager [TestNG-PoolService-1] Mobile driver initialized for: Android
+2025-10-08 23:18:15,610 INFO c.U.GenericUtil [TestNG-PoolService-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 23:18:15,617 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-08 23:18:15,618 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-08 23:18:15,618 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-08 23:18:20,796 INFO S.C.Hooks [TestNG-PoolService-1] Mobile driver was running and it stopped now!
+2025-10-08 23:18:20,796 INFO c.U.GenericUtil [TestNG-PoolService-1] Stopping emulator!!
+2025-10-08 23:18:20,799 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator has been stopped successfully!!
+2025-10-08 23:18:20,813 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-08 23:18:20,824 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-08 23:21:54,696 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:21:54,697 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:21:54,698 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:21:54,703 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:22:04,901 INFO c.D.DriverManager [main] Mobile driver initialized for: Android
+2025-10-08 23:22:05,166 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 23:22:05,174 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-10-08 23:22:05,175 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-10-08 23:22:05,176 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-10-08 23:22:10,361 INFO S.C.Hooks [main] Mobile driver was running and it stopped now!
+2025-10-08 23:22:10,361 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-08 23:22:10,365 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-08 23:22:10,370 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:22:10,370 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:22:10,370 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:22:10,373 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:22:28,303 ERROR c.D.DriverManager [main] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.Hooks.stopSession(Hooks.java:61) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:90) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$6(Runtime.java:107) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$7(Runtime.java:107) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at io.cucumber.core.runtime.Runtime$SameThreadExecutorService.execute(Runtime.java:235) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123) ~[?:?]
+	at io.cucumber.core.runtime.Runtime.lambda$runFeatures$3(Runtime.java:89) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.stream.SliceOps$1$1.accept(SliceOps.java:200) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1685) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at io.cucumber.core.runtime.Runtime.runFeatures(Runtime.java:90) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$run$0(Runtime.java:78) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.run(Runtime.java:78) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.cli.Main.run(Main.java:87) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.cli.Main.main(Main.java:30) ~[cucumber-core-7.20.1.jar:7.20.1]
+2025-10-08 23:22:28,313 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:22:28,313 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:22:28,313 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:22:28,316 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:22:35,815 INFO c.D.DriverManager [main] Mobile driver initialized for: Android
+2025-10-08 23:22:36,016 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 23:22:36,019 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-10-08 23:22:36,019 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-10-08 23:22:36,020 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-10-08 23:22:41,211 INFO S.C.Hooks [main] Mobile driver was running and it stopped now!
+2025-10-08 23:22:41,211 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-08 23:22:41,215 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-08 23:22:41,221 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:22:41,221 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:22:41,221 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:22:41,225 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:23:56,061 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:23:56,062 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:23:56,062 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:23:56,068 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:24:06,173 INFO c.D.DriverManager [main] Mobile driver initialized for: Android
+2025-10-08 23:24:06,364 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 23:24:06,371 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-10-08 23:24:06,373 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-10-08 23:24:06,373 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-10-08 23:24:11,574 INFO S.C.Hooks [main] Mobile driver was running and it stopped now!
+2025-10-08 23:24:11,574 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-08 23:24:11,577 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-08 23:24:11,585 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:24:11,585 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:24:11,585 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:24:11,590 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:24:26,480 ERROR c.D.DriverManager [main] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.Hooks.stopSession(Hooks.java:61) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:90) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$6(Runtime.java:107) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$7(Runtime.java:107) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at io.cucumber.core.runtime.Runtime$SameThreadExecutorService.execute(Runtime.java:235) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123) ~[?:?]
+	at io.cucumber.core.runtime.Runtime.lambda$runFeatures$3(Runtime.java:89) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.stream.SliceOps$1$1.accept(SliceOps.java:200) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1685) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at io.cucumber.core.runtime.Runtime.runFeatures(Runtime.java:90) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$run$0(Runtime.java:78) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.run(Runtime.java:78) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.cli.Main.run(Main.java:87) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.cli.Main.main(Main.java:30) ~[cucumber-core-7.20.1.jar:7.20.1]
+2025-10-08 23:24:26,496 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:24:26,496 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:24:26,496 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:24:26,500 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:24:33,976 INFO c.D.DriverManager [main] Mobile driver initialized for: Android
+2025-10-08 23:24:34,193 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 23:24:34,199 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-10-08 23:24:34,200 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-10-08 23:24:34,200 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-10-08 23:24:39,392 INFO S.C.Hooks [main] Mobile driver was running and it stopped now!
+2025-10-08 23:24:39,392 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-08 23:24:39,397 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-08 23:24:39,404 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:24:39,404 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:24:39,404 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:24:39,410 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:24:54,876 ERROR c.D.DriverManager [main] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.Hooks.stopSession(Hooks.java:61) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:90) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$6(Runtime.java:107) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$7(Runtime.java:107) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at io.cucumber.core.runtime.Runtime$SameThreadExecutorService.execute(Runtime.java:235) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123) ~[?:?]
+	at io.cucumber.core.runtime.Runtime.lambda$runFeatures$3(Runtime.java:89) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.stream.SliceOps$1$1.accept(SliceOps.java:200) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1685) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at io.cucumber.core.runtime.Runtime.runFeatures(Runtime.java:90) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$run$0(Runtime.java:78) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.run(Runtime.java:78) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.cli.Main.run(Main.java:87) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.cli.Main.main(Main.java:30) ~[cucumber-core-7.20.1.jar:7.20.1]
+2025-10-08 23:27:38,629 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:27:38,630 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:27:38,631 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:27:38,637 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:27:48,922 INFO c.D.DriverManager [main] Mobile driver initialized for: Android
+2025-10-08 23:27:49,118 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 23:27:49,126 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-10-08 23:27:49,128 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-10-08 23:27:49,129 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-10-08 23:27:54,293 INFO S.C.Hooks [main] Mobile driver was running and it stopped now!
+2025-10-08 23:27:54,293 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-08 23:27:54,297 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-08 23:27:54,308 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:27:54,308 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:27:54,308 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:27:54,313 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:28:10,276 ERROR c.D.DriverManager [main] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.Hooks.stopSession(Hooks.java:61) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:90) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$6(Runtime.java:107) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$7(Runtime.java:107) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at io.cucumber.core.runtime.Runtime$SameThreadExecutorService.execute(Runtime.java:235) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123) ~[?:?]
+	at io.cucumber.core.runtime.Runtime.lambda$runFeatures$3(Runtime.java:89) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.stream.SliceOps$1$1.accept(SliceOps.java:200) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1685) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at io.cucumber.core.runtime.Runtime.runFeatures(Runtime.java:90) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.lambda$run$0(Runtime.java:78) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.Runtime.run(Runtime.java:78) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.cli.Main.run(Main.java:87) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.cli.Main.main(Main.java:30) ~[cucumber-core-7.20.1.jar:7.20.1]
+2025-10-08 23:28:10,295 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-08 23:28:10,296 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-08 23:28:10,296 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-08 23:28:10,302 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-08 23:28:17,753 INFO c.D.DriverManager [main] Mobile driver initialized for: Android
+2025-10-08 23:28:17,955 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-08 23:28:17,958 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-10-08 23:28:17,959 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-10-08 23:28:17,960 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-10-09 07:05:02,139 INFO S.C.Hooks [main] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-09 07:05:02,140 INFO S.C.Hooks [main] Platform: Android, Device: virtual
+2025-10-09 07:05:02,140 INFO c.U.GenericUtil [main] Emulator is Launching!
+2025-10-09 07:05:02,145 INFO c.U.GenericUtil [main] Emulator has been launched!
+2025-10-09 07:05:12,704 INFO c.D.DriverManager [main] Mobile driver initialized for: Android
+2025-10-09 07:05:12,895 INFO c.U.GenericUtil [main] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-09 07:05:12,903 INFO S.M.AppiumTest [main] Launching the mobile Application
+2025-10-09 07:05:12,905 INFO S.M.AppiumTest [main] Launched the mobile Application
+2025-10-09 07:05:12,905 INFO S.M.AppiumTest [main] Launching the mobile Application and verified
+2025-10-09 07:05:18,072 INFO S.C.Hooks [main] Mobile driver was running and it stopped now!
+2025-10-09 07:05:18,073 INFO c.U.GenericUtil [main] Stopping emulator!!
+2025-10-09 07:05:18,077 INFO c.U.GenericUtil [main] Emulator has been stopped successfully!!
+2025-10-09 07:06:12,114 INFO S.C.Hooks [TestNG-PoolService-1] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-09 07:06:12,115 INFO S.C.Hooks [TestNG-PoolService-1] Platform: Android, Device: virtual
+2025-10-09 07:06:12,116 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator is Launching!
+2025-10-09 07:06:12,118 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator has been launched!
+2025-10-09 07:06:22,019 INFO c.D.DriverManager [TestNG-PoolService-1] Mobile driver initialized for: Android
+2025-10-09 07:06:22,217 INFO c.U.GenericUtil [TestNG-PoolService-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-09 07:06:22,223 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-09 07:06:22,224 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-09 07:06:22,224 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-09 07:06:27,426 INFO S.C.Hooks [TestNG-PoolService-1] Mobile driver was running and it stopped now!
+2025-10-09 07:06:27,426 INFO c.U.GenericUtil [TestNG-PoolService-1] Stopping emulator!!
+2025-10-09 07:06:27,432 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator has been stopped successfully!!
+2025-10-09 07:06:27,452 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-09 07:06:27,466 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-09 14:31:36,340 INFO S.C.Hooks [TestNG-PoolService-1] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-09 14:31:36,341 INFO S.C.Hooks [TestNG-PoolService-1] Platform: Android, Device: virtual
+2025-10-09 14:31:36,341 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator is Launching!
+2025-10-09 14:31:36,346 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator has been launched!
+2025-10-09 14:31:47,477 INFO c.D.DriverManager [TestNG-PoolService-1] Mobile driver initialized for: Android
+2025-10-09 14:31:47,670 INFO c.U.GenericUtil [TestNG-PoolService-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-09 14:31:47,677 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-09 14:31:47,678 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-09 14:31:47,678 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-09 14:31:52,865 INFO S.C.Hooks [TestNG-PoolService-1] Mobile driver was running and it stopped now!
+2025-10-09 14:31:52,866 INFO c.U.GenericUtil [TestNG-PoolService-1] Stopping emulator!!
+2025-10-09 14:31:52,869 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator has been stopped successfully!!
+2025-10-09 14:31:52,879 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-09 14:31:52,889 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-13 21:39:57,565 INFO S.C.Hooks [TestNG-PoolService-1] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-13 21:39:57,566 INFO S.C.Hooks [TestNG-PoolService-1] Platform: Android, Device: virtual
+2025-10-13 21:39:57,567 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator is Launching!
+2025-10-13 21:39:57,573 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator has been launched!
+2025-10-13 21:40:11,586 ERROR c.D.DriverManager [TestNG-PoolService-1] Failed to stop driver: web
+java.lang.RuntimeException: WebDriver is not initialized
+	at configurations.Driver.DriverManager.stopDriver(DriverManager.java:168) ~[classes/:?]
+	at Steps.Common.Hooks.stopSession(Hooks.java:61) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) ~[cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:90) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.1.jar:7.20.1]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228) ~[testng-7.9.0.jar:7.9.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80) ~[testng-7.9.0.jar:7.9.0]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run$$$capture(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+2025-10-13 21:40:11,623 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-13 21:40:11,683 INFO S.C.TestRunner [main] Stpped Appium Server!!
+2025-10-13 21:40:38,813 INFO S.C.Hooks [TestNG-PoolService-1] Starting scenario: Launch the SwagLabs mobile Application
+2025-10-13 21:40:38,814 INFO S.C.Hooks [TestNG-PoolService-1] Platform: Android, Device: virtual
+2025-10-13 21:40:38,815 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator is Launching!
+2025-10-13 21:40:38,817 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator has been launched!
+2025-10-13 21:40:49,747 INFO c.D.DriverManager [TestNG-PoolService-1] Mobile driver initialized for: Android
+2025-10-13 21:40:50,002 INFO c.U.GenericUtil [TestNG-PoolService-1] <====== Available contexts are : [NATIVE_APP]=======> 
+2025-10-13 21:40:50,011 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application
+2025-10-13 21:40:50,011 INFO S.M.AppiumTest [TestNG-PoolService-1] Launched the mobile Application
+2025-10-13 21:40:50,012 INFO S.M.AppiumTest [TestNG-PoolService-1] Launching the mobile Application and verified
+2025-10-13 21:40:55,294 INFO S.C.Hooks [TestNG-PoolService-1] Mobile driver was running and it stopped now!
+2025-10-13 21:40:55,295 INFO c.U.GenericUtil [TestNG-PoolService-1] Stopping emulator!!
+2025-10-13 21:40:55,300 INFO c.U.GenericUtil [TestNG-PoolService-1] Emulator has been stopped successfully!!
+2025-10-13 21:40:55,328 INFO S.C.TestRunner [main] Stpping Appium Server!!
+2025-10-13 21:40:55,357 INFO S.C.TestRunner [main] Stpped Appium Server!!

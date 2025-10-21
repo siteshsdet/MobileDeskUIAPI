@@ -1,0 +1,15 @@
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/configurations/Driver/DriverManager.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/configurations/Util/GenericUtil.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/configurations/Util/PropertyConfig.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/configurations/Util/PropertyUtil.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/manager/API/APIManager/APIManager.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/manager/API/APIPayLoads/APIPayLoads.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/manager/Desktop/DesktopManager.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/manager/Desktop/FileTest.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/manager/Desktop/checkTest.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/manager/Mobiles/CapabilitiesManager.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/manager/Mobiles/ServerManager.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/manager/WebApp/WebManager.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/pageAndScreens/Desktop/DesktopScreens.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/pageAndScreens/WebApp/WebAppPages.java
+/Users/siteshkumarvishwakarma/IdeaProjects/MobileDeskAPUI/src/main/java/pageAndScreens/mobiles/SauceLabsLoginScreen.java

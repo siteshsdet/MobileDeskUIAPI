@@ -1,0 +1,15 @@
+pageAndScreens/Desktop/DesktopScreens.class
+configurations/Util/PropertyConfig.class
+manager/Desktop/FileTest.class
+configurations/Util/GenericUtil.class
+configurations/Util/PropertyUtil.class
+manager/API/APIPayLoads/APIPayLoads.class
+manager/Mobiles/CapabilitiesManager.class
+manager/Desktop/DesktopManager.class
+pageAndScreens/WebApp/WebAppPages.class
+pageAndScreens/mobiles/SauceLabsLoginScreen.class
+manager/API/APIManager/APIManager.class
+manager/WebApp/WebManager.class
+configurations/Driver/DriverManager.class
+manager/Mobiles/ServerManager.class
+manager/Desktop/checkTest.class

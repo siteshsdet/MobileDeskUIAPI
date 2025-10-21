@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests">
+
+    <test name="Android Real Device Test-1">
+        <parameter name="platformName" value="Android"/>
+        <parameter name="deviceId" value="5678"/>
+        <parameter name="platFormVersion" value="13"/>
+        <classes>
+            <class name="Steps.Mobiles.AppiumTest"/>
+        </classes>
+    </test>
+
+    <test name="Android Real Device Test-2">
+        <parameter name="platformName" value="Android"/>
+        <parameter name="deviceId" value="26354823"/>
+        <parameter name="platFormVersion" value="12"/>
+        <classes>
+            <class name="Steps.Mobiles.AppiumTest"/>
+        </classes>
+    </test>
+
+
+
+
+
+    <!--  &lt;!&ndash;  Android App Launch  &ndash;&gt;
+      <parameter name="platformName" value="Android"/>
+      <test verbose="2" preserve-order="false" name="TestAndroid">
+          <classes>
+              <class name="Steps.Mobiles.AppiumTest"/>
+          </classes>
+      </test>-->
+
+    <!--   iOS App Launch  -->
+    <!--<parameter name="platformName" value="iOS"/>
+    <test verbose="2" preserve-order="false" name="TestIOS">
+        <classes>
+            <class name="Steps.Mobiles.AppiumTest"/>
+        </classes>
+    </test>-->
+</suite>
